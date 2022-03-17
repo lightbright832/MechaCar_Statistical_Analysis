@@ -30,4 +30,8 @@ Car manufacturers like AutosRUs' occasionally hit roadblocks in their production
    
    ![](https://github.com/lightbright832/MechaCar_Statistical_Analysis/blob/main/images/Deliverable3(3).png)
    
+   Based on my interpretation of the results from the three t-tests is that the further we get from a p-value of 1 the less significant the results of the linear          regression model. As stated above Lot 3 produced a variance outside of ideal expectations. This coincides with the low p-value that resulted from the t-tests. 
    
+   ## Study Design: MechaCar vs. Competition
+   The MechaCar appears to have a competitive advantage over the competition. It is impressive that the MechaCar gets so many mpg and that it has higher horsepower        than other similar cars. To continue this analysis it would be important to know how much the MechaCar costs in comparison to comparable cars. It would also be        important to know how the MechaCar performs in various environments. Such as if the car can be taken off road or not. Consumers would also be interested in the GPS    capabilities of the car and other technical perks. Another test that could be performed would be the speed specifications of the car. The goal would be to test if t    the car can reach 80 mph in less than 15 seconds. The null hypothesis would be that the car reaches 80 mph in 15 seconds or less. The alternative hypothesis would      be that   it takes more than 15 seconds to accelerate to 80 mph. To test this hypothesis an analyst could perform an ANOVA test. The data needed to run the ANOVA      test would be acceleration of the object, change in velocity,final speed, start speed, and time.
+
